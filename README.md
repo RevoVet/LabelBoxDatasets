@@ -9,7 +9,7 @@ pip install git+https://github.com/RevoVet/LabelBoxDatasets.git
 ## Usage
 
 ```python
-from labelbox_datasets import LabelBoxDataset
+from LabelBoxDatasets import LabelBoxDataset
 gDataObject = LabelBoxDataset(YOURAPI)
 ```
 
